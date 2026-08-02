@@ -5,7 +5,7 @@ Interactive analytics project that turns historical aircraft maintenance records
 
 **Data Lead:** Steven E. Yandle Sr.
 
-**Live demo:** `https://<your-username>.github.io/<repo-name>/` *(once GitHub Pages is enabled — see below)*
+**Live demo:**[ `https://<your-username>.github.io/<repo-name>/` *(once GitHub Pages is enabled — see below)](https://steven-yandle.github.io/Predictive-Maintenance-Dashboard/)*
 
 ---
 
@@ -89,7 +89,3 @@ Then the dashboard loads at `https://<your-username>.github.io/<repo-name>/` dir
 - Gave maintenance and operations stakeholders a single, always-current view of fleet health and KPIs
 - Surfaced reliability trends supporting a shift toward proactive, predictive maintenance planning
 - Made statistical, data-backed insight accessible to non-technical decision-makers through an intuitive dashboard
-
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to open-source this repository.
