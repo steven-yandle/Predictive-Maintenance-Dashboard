@@ -5,7 +5,7 @@ Interactive analytics project that turns historical aircraft maintenance records
 
 **Data Lead:** Steven E. Yandle Sr.
 
-**Live demo:**[ `https://<your-username>.github.io/<repo-name>/` *(once GitHub Pages is enabled — see below)](https://steven-yandle.github.io/Predictive-Maintenance-Dashboard/)*
+**Live demo:**(https://steven-yandle.github.io/Predictive-Maintenance-Dashboard/)*
 
 ---
 
