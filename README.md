@@ -49,24 +49,6 @@ This project replaces that manual process with:
 ### View the prototype
 Download `Predictive_Maintenance_Dashboard.html` and open it in any modern browser — it runs entirely client-side with the maintenance dataset embedded, so no server or install is required.
 
-### Host it live with GitHub Pages
-To get a shareable URL instead of a downloaded file:
-
-1. Push this repo to GitHub (including `Predictive_Maintenance_Dashboard.html` at the root).
-2. In the repo, go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to your default branch (e.g. `main`) and folder `/ (root)`, then **Save**.
-4. GitHub will publish the site at `https://<your-username>.github.io/<repo-name>/` (it can take a minute to go live).
-5. The dashboard itself will be reachable at:
-   `https://<your-username>.github.io/<repo-name>/Predictive_Maintenance_Dashboard.html`
-
-**Want the short root URL to load the dashboard directly** (`.../<repo-name>/` with no filename)? Rename the file to `index.html` first:
-```bash
-git mv Predictive_Maintenance_Dashboard.html index.html
-git commit -m "Rename dashboard to index.html for GitHub Pages"
-git push
-```
-Then the dashboard loads at `https://<your-username>.github.io/<repo-name>/` directly. If you rename it, update any links to `Predictive_Maintenance_Dashboard.html` elsewhere in this README accordingly.
-
 ### Build the live Power BI report
 1. Open Power BI Desktop.
 2. Import `Aviation_Maintenance_Data.xlsx` (`Get Data → Excel Workbook`).
